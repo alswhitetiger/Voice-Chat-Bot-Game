@@ -83,3 +83,31 @@ streamlit run voice_game_streamlit.py
 **# voice_game_streamlit.py 파일이 있는 폴더에서 실행**
 
 실행 후 터미널에 나타나는 URL 주소를 웹 브라우저에 열면 게임을 시작할 수 있습니다.
+
+---
+
+# 실행 페이지!!
+**streamlit의 시연페이지**
+
+<img width="724" height="620" alt="image" src="https://github.com/user-attachments/assets/7dde21cc-f56a-4371-888a-ee5edda2fa88" />
+<img width="728" height="718" alt="image" src="https://github.com/user-attachments/assets/de127397-e67c-46be-aab5-65018f873528" />
+
+---
+
+**py의 터미널 시연 페이지**
+
+<img width="1303" height="832" alt="image" src="https://github.com/user-attachments/assets/f7fc0d0c-7527-4271-85f7-885fea91b049" />
+<img width="1290" height="864" alt="image" src="https://github.com/user-attachments/assets/e0325512-723b-430b-8d27-ddc934000791" />
+<img width="1300" height="633" alt="image" src="https://github.com/user-attachments/assets/e04d9347-dc3b-47a4-bdd5-d465b27ddd4a" />
+
+---
+
+**ipynb의 시연페이지**
+
+<img width="1341" height="614" alt="image" src="https://github.com/user-attachments/assets/9059dd3c-a45d-45d4-a125-16f456a494e0" />
+<img width="1375" height="620" alt="image" src="https://github.com/user-attachments/assets/8ecae48a-610d-4e9d-9365-c1264e7c6d90" />
+
+---
+
+# 아쉬운 점
+**음성 인식으로 하는 것이어서, 녹음한 것을 텍스트로 변환하는 것에 대해 자꾸 오타가 나기도 해서 그런 점들을 수정하여 좀 더 완벽하게 만들어 보고 싶다.**
